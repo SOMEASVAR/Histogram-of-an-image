@@ -83,7 +83,7 @@ cv2.destroyAllWindows()
 ![OUTPUT](./HIST2.jpg)
 
 ## Histogram Equalization of Grayscale Image:
-![OUTPUT](./G1.jpg)
+![OUTPUT]()
 ![OUTPUT](./G2.jpg)
 
 
